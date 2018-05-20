@@ -1,0 +1,5 @@
+C:\Documents and Settings\BenedictD\My Documents\Visual Studio 2008\Projects\CLR.Utilities\CLR.Utilities\bin\Debug\CLR.Utilities.dll
+C:\Documents and Settings\BenedictD\My Documents\Visual Studio 2008\Projects\CLR.Utilities\CLR.Utilities\bin\Debug\CLR.Utilities.pdb
+C:\Documents and Settings\BenedictD\My Documents\Visual Studio 2008\Projects\CLR.Utilities\CLR.Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BenedictD\My Documents\Visual Studio 2008\Projects\CLR.Utilities\CLR.Utilities\obj\Debug\CLR.Utilities.dll
+C:\Documents and Settings\BenedictD\My Documents\Visual Studio 2008\Projects\CLR.Utilities\CLR.Utilities\obj\Debug\CLR.Utilities.pdb
